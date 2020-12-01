@@ -20,5 +20,5 @@ The script uses a configuration that  must include the following informations
 Note that rubrik_cdm_token take precedence over rubrik_cdm_username and rubrik_cdm_password.
 So, no matter which value is set for rubrik_cdm_username and rubrik_cdm_password.
 
-To verify if the configuration values are correct run : "source <configurtaionfile> ; rkkcli commands -T"
+To verify if the configuration values are correct run : "source <configurtaionfile> ; rbkcli commands -T"
 This should return cluster uuid, cluster name ...
