@@ -4,7 +4,7 @@ The script required the following tools.
 -uuidgen
 -jq
 -rbkcli
-	this tool can be installed (https://github.com/rubrikinc/rbkcli )or can be downloaded as a portable executable from github (https://github.com/rubrikinc/rbkcli/releases).
+	this tool can be installed (https://github.com/rubrikinc/rbkcli) or can be downloaded as a portable executable from github (https://github.com/rubrikinc/rbkcli/releases).
 	rbkcli is an rest API wrapper for rubrik which relies on python.
 
 These tools must be in $PATH of the user who run the script.
